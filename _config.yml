@@ -30,7 +30,7 @@ remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-include-cache
 
-accent_image: /assets/img/image1.jpg
+accent_image: /assets/img/image1.JPG
 accent_color: rgb(1,1,1)
 
 author:
