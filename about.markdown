@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /flagADA4life/about/
 ---
 
 The authors of this project:
