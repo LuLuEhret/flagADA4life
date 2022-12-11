@@ -7,9 +7,13 @@ permalink: /re/
 ---
 
 <style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
+  body {
+    background-color: Red;
+  }
+</style>
+
+<style>
+j { color: GoldenRod }
 </style>
 
 ## Introduction
@@ -27,7 +31,7 @@ To study the representations of stereotypes in cinema, we will exploit the CMU m
 
 ![image](/assets/img/movietime.jpeg)
 
-## <r>Background stories</r>
+## <j>Background stories</j>
 Madison is a 15-year-old girl who lives with her parents and older brother. She attends a competitive high school and is an honors student with a passion for acting. In her free time, Madison takes acting classes and auditions for local theater productions. She has also started to build a small portfolio of professional work, including a few small commercial and film roles. Madison is a confident young woman with a dream of becoming a successful actress.
 
 Jack is a 16-year-old boy who has always dreamed of becoming an actor. He grew up in a small town, and from a young age he was drawn to the world of acting and storytelling. Jack began acting in school plays, and as he got older he started to take acting lessons and audition for professional roles. He has already appeared in a few independent films, and he is determined to continue working hard and building his skills in order to one day play in blockbuster movies. Jack is a passionate and talented young actor with a bright future ahead of him.
