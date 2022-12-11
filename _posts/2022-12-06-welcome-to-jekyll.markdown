@@ -6,12 +6,6 @@ categories: jekyll update
 permalink: /re/
 ---
 
-<style>
-  body {
-    background-color: #FFFACD;
-  }
-</style>
-
 ## Introduction
 Throughout the history of cinema, women and men have both often been portrayed in stereotypical ways. 
 
