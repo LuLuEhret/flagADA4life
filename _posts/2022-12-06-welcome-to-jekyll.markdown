@@ -8,7 +8,7 @@ permalink: /re/
 
 <style>
   body {
-    background-color: Red;
+    background-color: LemonChiffon;
   }
 </style>
 
