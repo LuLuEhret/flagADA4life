@@ -3,7 +3,7 @@ layout: home
 title:  "coucou"
 date:   2022-12-06 17:48:43 +0100
 categories: jekyll update
-permalink: /re/
+permalink: /projects/
 ---
 
 <style>

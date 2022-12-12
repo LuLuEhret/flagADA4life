@@ -38,14 +38,10 @@ author:
   email: lucas.ehret@epfl.ch
 
 menu:
-  - title: Blog
-    url:   /re/
   - title: Projects
     url:   /projects/
-  - title: Resume
-    url:   /resume/
-  - title: About
-    url:   /about/
+  - title: Team
+    url:   /team/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
