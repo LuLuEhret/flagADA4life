@@ -1,6 +1,6 @@
 ---
 layout: home
-title:  "coucou"
+title:  "Gender representation in the film industry"
 date:   2022-12-06 17:48:43 +0100
 categories: jekyll update
 permalink: /projects/
@@ -16,7 +16,7 @@ permalink: /projects/
 j { color: GoldenRod }
 </style>
 
-## Introduction
+## <j>Introduction</j>
 Throughout the history of cinema, women and men have both often been portrayed in stereotypical ways. 
 
 Some common women stereotypes include the mother figure, the “femme fatale” and the damsel in distress. The mother figure is a stereotype where the female character is depicted as a caring and nurturing mother, and reinforces the idea that women’s primary role is to care for the children and the home. The “femme fatale” stereotype depicts female as seductive, manipulative and dangerous. The damsel in distress is probably also one of the most represented stereotypes in cinema. Often, the female is portrayed as weak and in need of rescue by a male hero, which reinforces the idea that women are helpless and need men to protect them. 
@@ -25,7 +25,7 @@ On the other hand, male characters also have their share of clichés. Some recur
 
 The portrayal of a gender in cinema can significantly impact how women and men are perceived and treated in society and thus reinforce gender stereotypes in real life. They can even contribute to oppression of the female gender. For example, roles where women are weak and dependent on men can make it more difficult for women to be seen as strong and independent, and can limit their opportunities and choices in life.
 
-## Datasets
+## <j>Datasets</j>
 
 To study the representations of stereotypes in cinema, we will exploit the CMU movies summary dataset, which gathers various information on the actors, characters, and the pre-processed movie summaries. From these pre-processed summaries, we can gather valuable data on the actions done by characters, and associate these actions to male and female characters.
 
@@ -41,7 +41,7 @@ Which stereotypes will affect Jack and Madison during their acting career ? How 
 We will explore these questions in different settings: what if Madison and Jack were born in the sixties, in the nineties ? What if they work in India, USA, West Europe ?
 
 
-## Tutorials...
+## <j>Tutorials...</j>
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
