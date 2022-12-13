@@ -21,6 +21,8 @@ Throughout the history of cinema, women and men have both often been portrayed i
 
 Some common women stereotypes include the mother figure, the “femme fatale” and the damsel in distress. The mother figure is a stereotype where the female character is depicted as a caring and nurturing mother, and reinforces the idea that women’s primary role is to care for the children and the home. The “femme fatale” stereotype depicts female as seductive, manipulative and dangerous. The damsel in distress is probably also one of the most represented stereotypes in cinema. Often, the female is portrayed as weak and in need of rescue by a male hero, which reinforces the idea that women are helpless and need men to protect them. 
 
+![image](/assets/img/clichés.jpeg)
+
 On the other hand, male characters also have their share of clichés. Some recurrent characters include the bad boy, the bachelor and so on. Some common male character attributes include being strong and athletic, violent and aggressive, competitive, intellectually gifted.
 
 The portrayal of a gender in cinema can significantly impact how women and men are perceived and treated in society and thus reinforce gender stereotypes in real life. They can even contribute to oppression of the female gender. For example, roles where women are weak and dependent on men can make it more difficult for women to be seen as strong and independent, and can limit their opportunities and choices in life.
@@ -38,7 +40,11 @@ Jack is a 16-year-old boy who has always dreamed of becoming an actor. He grew u
 
 Which stereotypes will affect Jack and Madison during their acting career ? How will their gender impact the roles they will get to play? 
 
-We will explore these questions in different settings: what if Madison and Jack were born in the sixties, in the nineties ? What if they work in India, USA, West Europe ?
+We will explore these questions in different settings: what if Madison and Jack were born in the sixties, in the nineties ? What if they work in India, USA, West Europe ? I hope you have your popcorn ready, because it's about to get interesting !
+
+![image](/assets/img/popcorn2.jpeg)
+
+![image](/assets/img/The_end.jpeg)
 
 
 ## <j>Tutorials...</j>
