@@ -16,12 +16,14 @@ permalink: /projects/
 j { color: GoldenRod }
 </style>
 
+![image](/assets/img/movietime.jpeg)
+
 ## <j>Introduction</j>
 Throughout the history of cinema, women and men have both often been portrayed in stereotypical ways. 
 
 Some common women stereotypes include the mother figure, the “femme fatale” and the damsel in distress. The mother figure is a stereotype where the female character is depicted as a caring and nurturing mother, and reinforces the idea that women’s primary role is to care for the children and the home. The “femme fatale” stereotype depicts female as seductive, manipulative and dangerous. The damsel in distress is probably also one of the most represented stereotypes in cinema. Often, the female is portrayed as weak and in need of rescue by a male hero, which reinforces the idea that women are helpless and need men to protect them. 
 
-![image](/assets/img/clichés.jpeg)
+![image](/assets/img/clichés.jpg)
 
 On the other hand, male characters also have their share of clichés. Some recurrent characters include the bad boy, the bachelor and so on. Some common male character attributes include being strong and athletic, violent and aggressive, competitive, intellectually gifted.
 
@@ -30,8 +32,6 @@ The portrayal of a gender in cinema can significantly impact how women and men a
 ## <j>Datasets</j>
 
 To study the representations of stereotypes in cinema, we will exploit the CMU movies summary dataset, which gathers various information on the actors, characters, and the pre-processed movie summaries. From these pre-processed summaries, we can gather valuable data on the actions done by characters, and associate these actions to male and female characters.
-
-![image](/assets/img/movietime.jpeg)
 
 ## <j>Background stories</j>
 Madison is a 15-year-old girl who lives with her parents and older brother. She attends a competitive high school and is an honors student with a passion for acting. In her free time, Madison takes acting classes and auditions for local theater productions. She has also started to build a small portfolio of professional work, including a few small commercial and film roles. Madison is a confident young woman with a dream of becoming a successful actress.
