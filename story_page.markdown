@@ -20,18 +20,17 @@ j { color: GoldenRod }
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-#markdown-toc::before {
+markdown-toc::before {
     content: "Contents";
     font-weight: bold;
 }
 
 
-// Using numbers instead of bullets for listing
-#markdown-toc ul {
+markdown-toc ul {
     list-style: decimal;
 }
 
-#markdown-toc {
+markdown-toc {
     border: 1px solid #aaa;
     padding: 1.5em;
     list-style: decimal;
