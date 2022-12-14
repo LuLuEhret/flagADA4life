@@ -31,7 +31,6 @@ plugins:
   - jekyll-include-cache
 
 #accent_image: /assets/img/image1.JPG
-accent_image: /assets/img/AdobeStock_103313063.jpeg
 accent_color: rgb(1,1,1)
 
 author:
@@ -39,8 +38,8 @@ author:
   email: lucas.ehret@epfl.ch
 
 menu:
-  - title: Projects
-    url:   /projects/
+  - title: A story about movies
+    url:   /project/
   - title: Team
     url:   /team/
 
