@@ -1,8 +1,6 @@
 ---
 layout: page
 title:  "Gender representation in the film industry"
-date:   2022-12-06 17:48:43 +0100
-categories: jekyll update
 permalink: /project/
 accent_image: /assets/img/cover_pic.png
 ---

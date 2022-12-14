@@ -3,13 +3,20 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: welcome
+title: Project introduction
 cover: true
 accent_image: /assets/img/gender.png
 ---
 
+Welcome to the website of our ADA project. [Here][https://github.com/epfl-ada/ada-2022-project-flagada4life] you can find the Github repository to find all the calculations that led to the plots used during the analysis. To access to the core of this project click [here][/project/], or if you want to learn more about the team it's up [there][/team/]. 
 
-Bonjour, hehe, oh
+## Datasets 
+To study the representations of stereotypes in cinema, we will exploit the CMU movies summary dataset, which gathers various information on the actors, characters, and the pre-processed movie summaries. From these pre-processed summaries, we can gather valuable data on the actions done by characters, and associate these actions to male and female characters.
+
+
+
+
+
 
 1. this ordered seed list will be replactoc
 {:toc}
