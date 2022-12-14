@@ -43,9 +43,34 @@ We will explore these questions in different settings: what if Madison and Jack 
 
 ![image](/assets/img/popcorn2.jpeg)
 
+## Let's start our journey back in time : direction the 60's !
+
+***
+
+## Now it's time to go to the 90's !
+
+***
+
+## Let's go to the 21st century !
+
+
+
+
+
+
+
+
+
 ![image](/assets/img/The_end.jpeg)
 
 ![image](/assets/img/directed_by.jpg)
+
+
+
+
+
+
+
 
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
