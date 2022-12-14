@@ -37,10 +37,15 @@ The portrayal of a gender in cinema can significantly impact how women and men a
 
 To study the representations of stereotypes in cinema, we will exploit the CMU movies summary dataset, which gathers various information on the actors, characters, and the pre-processed movie summaries. From these pre-processed summaries, we can gather valuable data on the actions done by characters, and associate these actions to male and female characters.
 
+<p align="center">
+  <img src="/assets/img/movie_per_year.png" width="200" />
+  <img src="/assets/img/top genres.jpg" width="200" /> 
+  <img src="/assets/img/top_movie_producing_countries.jpg" width="200" />
+</p>
 
-![image](/assets/img/movie_per_year.png)
+<!-- ![image](/assets/img/movie_per_year.png)
 ![image](/assets/img/top genres.png)
-![image](/assets/img/top_movie_producing_countries.png)
+![image](/assets/img/top_movie_producing_countries.png) -->
 
 
 ## <j>Background stories</j>
