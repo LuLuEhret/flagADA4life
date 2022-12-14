@@ -37,16 +37,10 @@ The portrayal of a gender in cinema can significantly impact how women and men a
 
 To study the representations of stereotypes in cinema, we will exploit the CMU movies summary dataset, which gathers various information on the actors, characters, and the pre-processed movie summaries. From these pre-processed summaries, we can gather valuable data on the actions done by characters, and associate these actions to male and female characters.
 
-<p align="center">
-  <img src="/assets/img/movie_per_year.png" width="200" />
-  <img src="/assets/img/top genres.jpg" width="200" /> 
-  <img src="/assets/img/top_movie_producing_countries.jpg" width="200" />
-</p>
+The picture below shows the movies repartition according to the countries in which they were produced, the genre to which they belong, and their release year. We observe that most of the movies are dramas, produced in USA after 1980. This will have an impact on the results we obtain, as the stereotypes depicted will mostly come from the US. 
 
-<!-- ![image](/assets/img/movie_per_year.png)
-![image](/assets/img/top genres.png)
-![image](/assets/img/top_movie_producing_countries.png) -->
 
+![image](/assets/img/stats_movies.png)
 
 ## <j>Background stories</j>
 Madison is a 15-year-old girl who lives with her parents and older brother. She attends a competitive high school and is an honors student with a passion for acting. In her free time, Madison takes acting classes and auditions for local theater productions. She has also started to build a small portfolio of professional work, including a few small commercial and film roles. Madison is a confident young woman with a dream of becoming a successful actress.
