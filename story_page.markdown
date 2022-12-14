@@ -2,7 +2,7 @@
 layout: page
 title:  "Gender representation in the film industry"
 permalink: /project/
-accent_image: /assets/img/cover_pic.png
+accent_image: /assets/img/cover_pic2.png
 ---
 
 <style>
@@ -15,7 +15,7 @@ accent_image: /assets/img/cover_pic.png
 j { color: GoldenRod }
 </style>
 
-![image](/assets/img/movietime.jpeg)
+![image](/assets/img/movie_stereo.png)
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
