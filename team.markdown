@@ -2,6 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
+accent_image: /assets/img/cover_pic.png
 ---
 
 <div style="clear: both;">
