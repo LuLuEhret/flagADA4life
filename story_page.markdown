@@ -20,6 +20,7 @@ j { color: GoldenRod }
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
+
 ## <j>Introduction</j>
 Throughout the history of cinema, women and men have both often been portrayed in stereotypical ways. 
 
@@ -62,8 +63,6 @@ We will explore these questions in different settings: what if Madison and Jack 
 ***
 
 ## End of the journey : let's go to the 21st century !
-Let's go to the 21st century !
-
 
 
 
