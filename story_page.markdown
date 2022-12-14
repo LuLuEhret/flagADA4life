@@ -17,6 +17,9 @@ j { color: GoldenRod }
 
 ![image](/assets/img/movietime.jpeg)
 
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
 ## <j>Introduction</j>
 Throughout the history of cinema, women and men have both often been portrayed in stereotypical ways. 
 
