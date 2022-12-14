@@ -5,6 +5,7 @@
 layout: home
 title: welcome
 cover: true
+accent_image: /assets/img/gender.png
 ---
 
 
