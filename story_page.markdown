@@ -20,22 +20,6 @@ j { color: GoldenRod }
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-markdown-toc::before {
-    content: "Contents";
-    font-weight: bold;
-}
-
-
-markdown-toc ul {
-    list-style: decimal;
-}
-
-markdown-toc {
-    border: 1px solid #aaa;
-    padding: 1.5em;
-    list-style: decimal;
-    display: inline-block;
-}
 
 ## <j>Introduction</j>
 Throughout the history of cinema, women and men have both often been portrayed in stereotypical ways. 
