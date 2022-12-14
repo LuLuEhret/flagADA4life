@@ -8,6 +8,12 @@ cover: true
 accent_image: /assets/img/gender.png
 ---
 
+1. df
+{:toc}
+2. dg
+{:toc}
+
+## Welcome
 Welcome to the website of our ADA project. [Here][git_link] you can find the Github repository to find all the calculations that led to the plots used during the analysis. To access to the core of this project click [here](/project/), or if you want to learn more about the team it's up [there](/team.markdown). 
 
 
@@ -20,8 +26,6 @@ To study the representations of stereotypes in cinema, we will exploit the CMU m
 
 
 
-1. this ordered seed list will be replactoc
-{:toc}
 2. this ordethe toc
 {:toc}
 3. this ordered seed list will be re by the toc
