@@ -2,7 +2,7 @@
 layout: page
 title:  "Gender representation in the film industry"
 permalink: /project/
-accent_image: /assets/img/cover_pic2.png
+accent_image: /assets/img/cover_pic3.png
 ---
 
 <style>
