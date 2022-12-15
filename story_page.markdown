@@ -60,7 +60,7 @@ We will explore these questions in different settings: what if Madison and Jack 
 
 ![image](/assets/img/popcorn2.jpeg)
 
-:popcorn: The following datastory is meant to be read while eating popcorn in order to enhance the overall experience. After all, what's a good story without a tasty snack to munch on ? 
+🍿The following datastory is meant to be read while eating popcorn in order to enhance the overall experience. After all, what's a good story without a tasty snack to munch on ? 
 {:.note title="Warning"}
 
 
@@ -72,7 +72,7 @@ We will explore these questions in different settings: what if Madison and Jack 
 
 ***
 
-:popcorn: Whoa, slow down there! I thought we were supposed to be enjoying this story together, not inhaling all the popcorn in record time.  I can't believe you polished off that whole bowl before I even made it through the firsts analyses !
+🍿Whoa, slow down there! I thought we were supposed to be enjoying this story together, not inhaling all the popcorn in record time.  I can't believe you polished off that whole bowl before I even made it through the firsts analyses !
 ![image](/assets/img/no_popcorn.jpeg)
 
 ## <j>End of the journey : let's go to the 21st century !</j>
