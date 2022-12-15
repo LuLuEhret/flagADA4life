@@ -92,3 +92,8 @@ In many films, men and women are often shown playing stereotypical roles. Our an
 
 ![image](/assets/img/directed_by.jpg)
 
+
+Thank you for reading our datastory ! 
+
+Big thanks to Pr. Bob West and all the TA team for their advices along the semester and especially Martin for his inputs on our project!
+
