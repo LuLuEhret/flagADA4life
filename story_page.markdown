@@ -45,9 +45,14 @@ The picture below shows the dataset's movies repartition according to the countr
 
 ![image](/assets/img/stats_movies.png)
 
-Women are underrepresented in cinema in many roles, including actors, producers, and writers. Despite making up roughly half of the population, women are often not given the same opportunities as men in the film industry. This lack of representation is a problem that needs to be addressed so that women can have equal access to the opportunities and benefits of working in cinema. You can check below the percentage of men and women in key cinema jobs.
+Women are underrepresented in cinema in many roles, including actors, directors, and writers. Despite making up roughly half of the population, women are often not given the same opportunities as men in the film industry. This lack of representation is a problem that needs to be addressed so that women can have equal access to the opportunities and benefits of working in cinema. You can check below the percentage of men and women in key cinema jobs. The high percentage of male directors and writers means that the stories and perspectives that are being told in films are largely coming from a male perspective.
 
-As we can see, women are underrepresented in the cinema industry. The high percentage of male producers and writers means that the stories and perspectives that are being told in films are largely coming from a male perspective, which can lead to a lack of representation and diversity in the film industry.
+![image](/assets/img/actors_genders.png)
+![image](/assets/img/dir_genders.png)
+![image](/assets/img/writers_genders.png)
+*The genders of the directors and writers have been gathered via wikipedia,  using wikidata for gender querying.*
+
+
 
 ## <j>Background stories</j>
 Madison is a 15-year-old girl who lives with her parents and older brother. She attends a competitive high school and is an honors student with a passion for acting. In her free time, Madison takes acting classes and auditions for local theater productions. She has also started to build a small portfolio of professional work, including a few small commercial and film roles. Madison is a confident young woman with a dream of becoming a successful actress.
