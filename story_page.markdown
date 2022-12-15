@@ -49,7 +49,7 @@ Women are underrepresented in cinema in many roles, including actors, directors,
 
 ![image](/assets/img/actors_genders.png)
 ![image](/assets/img/dir_genders.png)
-![image](/assets/img/writers_genders.png)
+![image](/assets/img/writers_gender.png)
 *The genders of the directors and writers have been gathered via wikipedia,  using wikidata for gender querying.*
 
 
