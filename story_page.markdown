@@ -72,7 +72,9 @@ We will explore these questions in different settings: what if Madison and Jack 
 
 ![image](/assets/img/age_regions_world.png)
 
-...Insert figure, genres? epochs ?....
+![image](/assets/img/polar.png)
+
+
 
 ## <j>Breaking the glass ceiling: Analysis of gender parity in leading film roles </j>
 
