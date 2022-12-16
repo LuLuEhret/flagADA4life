@@ -47,7 +47,8 @@ The picture below shows the dataset's movies repartition according to the countr
 
 Women are underrepresented in cinema in many roles, including actors, directors, and writers. Despite making up roughly half of the population, women are often not given the same opportunities as men in the film industry. This lack of representation is a problem that needs to be addressed so that women can have equal access to the opportunities and benefits of working in cinema. You can check below the percentage of men and women in key cinema jobs. The high percentage of male directors and writers means that the stories and perspectives that are being told in films are largely coming from a male perspective.
 
-![image](/assets/img/actors_genders.png)|[image](/assets/img/dir_genders.png)|[image](/assets/img/writers_gender.png)
+![image](/assets/img/actors_genders.png){:width="30%"} ![image](/assets/img/dir_genders.png){:width="30%"} ![image](/assets/img/writers_gender.png){:width="30%"}
+
 *The genders of the directors and writers have been gathered via IMDb,  using wikidata for gender querying.*
 
 
@@ -143,7 +144,7 @@ If Jack and Madi worked in Hollywood...
 ...West Europe...
 
 
-## <j>Influence of female filmmakers on gender representation in movies"</j>
+## <j>Influence of female filmmakers on gender representation in movies</j>
 
 ....Separate movies written/produced by male and females and check : importance of roles of women in these movies. Most frequent actions, violence and love.....
 
