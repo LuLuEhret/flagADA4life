@@ -73,14 +73,11 @@ We will explore these questions in different settings: what if Madison and Jack 
 ## <j>Age gap in male and female film roles </j>
 
 
-Age plays a major role in the type of film an actor plays in. Indeed, men are often being depicted as older and more established, while women are often portrayed as younger and less experienced. This could mean that we can expect Madison to have a career in cinema earlier than Jack, and to have difficulties finding roles when she gets old.
-
-As a aspiring actors, Madisons and Jake's career path will be influenced by the age trends in the different movie genre and localisation in the world. Let's look at the mean actor age in some of the main movie genres for men and women. Jake is more likely to act in romance movies, whereas Madison will probably play in musical or romance movies. As they get older, the first one will have an increasing chance to play in adventure or parody movies, and the second one romantic drama or LGBT movies.
+Age plays a major role in the type of film an actor plays in. As a aspiring actors, Madisons and Jake's career path will be influenced by the age trends in the different movie genre and localisation in the world. Let's look at the mean actor age in some of the main movie genres for men and women. Jake is more likely to act in romance movies, whereas Madison will probably play in musical or romance movies. As they get older, the first one will have an increasing chance to play in adventure or parody movies, and the second one romantic drama or LGBT movies.
 
 ![image](/assets/img/age_genre.png)
 
 One other aspect that impact the choice of actor for a role is the age difference between the men and women roles in a movie. 
-
 
 Historically, there has been a significant age gap between male and female characters in films, with men often being depicted as older and more established, while women are often portrayed as younger and less experienced. This is very noticeable in romance movies, especially with may-december romance movies, which are movies depicting romantic relationships where there is a drastic in age between the two characters. This means we can expect Madison to have a career in cinema earlier than Jack, and to have difficulties finding roles when she gets old.
 
