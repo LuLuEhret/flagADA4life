@@ -68,19 +68,76 @@ We will explore these questions in different settings: what if Madison and Jack 
 🍿The following datastory is meant to be read while eating popcorn in order to enhance the overall experience. After all, what's a good story without a tasty snack to munch on ? 
 {:.note title="Warning"}
 
+## <j>Age Gap in male and female film roles </j>
 
-## <j>Let's start our journey back in time : direction the 60's !</j>
+...Insert figure, genres? epochs ?....
 
-***
+## <j>Breaking the glass ceiling: Analysis of gender parity in leading film roles </j>
 
-## <j>Now it's time to go to the 90's !</j>
+...IMDb...
+
+## <j>How do actions done by men and women differ in movie summaries : overview </j>
+
+...fig more popular actions...
+
+Now that we have seen that some actions are more associated to a gender, we will focus on the two most stereotyped lexical fields : love for women and violence for men. The more present a stereotype is in the movie summaries, the more the difference of use of the lexical field of the stereotype between male and female genders will be important. Now let's see how these stereotypes changed in time in the summaries.
+
+
+
+
+
+
+## <j>Transformations of cinema gender stereotypes through time</j>
+<!-- ## <j>Let's start our journey back in time : direction the 60's !</j> -->
+
+What if Madison and Jack were starting off their careers in the 60's ? Well, here is a list of actions that Madison and Jack have way more chance to do compare to the others.
+
+...add figure with strerotyped words...
+
+We observe that ... (text with Madison and Jack)
+
+...add violence and love logistic regression...
+
+
+Now in the 90's, ...
+
+...add figure with strerotyped words...
+
+...add violence and love logistic regression...
+
+And finally, in the 21st century...
+
+...add figure with strerotyped words...
+
+...add violence and love logistic regression...
+
+
+
+<!-- ## <j>Now it's time to go to the 90's !</j> -->
 
 ***
 
 🍿Whoa, slow down there! I thought we were supposed to be enjoying this story together, not inhaling all the popcorn in record time.  I can't believe you polished off that whole bowl before I even made it through the firsts analyses !
 ![image](/assets/img/no_popcorn.jpeg)
 
-## <j>End of the journey : let's go to the 21st century !</j>
+<!-- ## <j>End of the journey : let's go to the 21st century !</j> -->
+
+## <j>Cinema gender Stereotypes: A Cross-Cultural Analysis</j>
+
+Gender stereotypes can vary significantly between regions of the world. These stereotypes are often shaped by cultural and social norms, as well as historical and political influences.
+
+For example, some regions may have more traditional gender roles, with strict expectations for men and women to conform to certain behaviors and occupations. In other regions, gender roles may be more free and open to individual choice. We'll now determine if certain sterotypes are more visible in certain regions of the world.
+
+If Jack and Madi worked in Hollywood...
+
+...Bollywood...
+
+...West Europe...
+
+
+## <j>Influence of Female Filmmakers on Gender Representation in Film"</j>
+
+....Separate movies written/produced by male and females and check : importance of roles of women in these movies. Most frequent actions, violence and love.....
 
 ## <j>What have we learned ?</j>
 
