@@ -18,8 +18,6 @@ accent_image: /assets/img/gender.png
 j { color: GoldenRod }
 </style>
 
-1. df
-{:toc}
 
 ## <j>Welcome</j>
 Welcome to the website of our ADA project. [Here][git_link] you can find the Github repository to find all the calculations that led to the plots used during the analysis. To access to the core of this project click [here](/project/), or if you want to learn more about the team it's up [there](/team.markdown). 
