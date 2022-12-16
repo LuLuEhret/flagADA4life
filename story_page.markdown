@@ -47,9 +47,12 @@ The picture below shows the dataset's movies repartition according to the countr
 
 Women are underrepresented in cinema in many roles, including actors, directors, and writers. Despite making up roughly half of the population, women are often not given the same opportunities as men in the film industry. This lack of representation is a problem that needs to be addressed so that women can have equal access to the opportunities and benefits of working in cinema. You can check below the percentage of men and women in key cinema jobs. The high percentage of male directors and writers means that the stories and perspectives that are being told in films are largely coming from a male perspective.
 
-![image](/assets/img/actors_genders.png){:width="33%"} ![image](/assets/img/dir_genders.png){:width="33%"} ![image](/assets/img/writers_gender.png){:width="33%"}
 
-*The genders of the directors and writers have been gathered via IMDb,  using wikidata for gender querying.*
+<!-- ![image](/assets/img/actors_genders.png)
+![image](/assets/img/dir_genders.png)
+![image](/assets/img/writers_gender.png) -->
+
+![image](/assets/img/actors_dir_gender.png)
 
 
 
@@ -69,11 +72,17 @@ We will explore these questions in different settings: what if Madison and Jack 
 
 ## <j>Age gap in male and female film roles </j>
 
+
+Age plays a major role in the type of film an actor plays in. Indeed, men are often being depicted as older and more established, while women are often portrayed as younger and less experienced. This could mean that we can expect Madison to have a career in cinema earlier than Jack, and to have difficulties finding roles when she gets old.
+
+As a aspiring actors, Madisons and Jake's career path will be influenced by the age trends in the different movie genre and localisation in the world. Let's look at the mean actor age in some of the main movie genres for men and women. Jake is more likely to act in romance movies, whereas Madison will probably play in musical or romance movies. As they get older, the first one will have an increasing chance to play in adventure or parody movies, and the second one romantic drama or LGBT movies.
+
+![image](/assets/img/age_genre.png)
+
+One other aspect that impact the choice of actor for a role is the age difference between the men and women roles in a movie. 
+
+
 Historically, there has been a significant age gap between male and female characters in films, with men often being depicted as older and more established, while women are often portrayed as younger and less experienced. This is very noticeable in romance movies, especially with may-december romance movies, which are movies depicting romantic relationships where there is a drastic in age between the two characters. This means we can expect Madison to have a career in cinema earlier than Jack, and to have difficulties finding roles when she gets old.
-
-The figure below shows the mean age of men and women in movies in USA, India and West Europe, and how it changed with time. The mean age of men and women playing in movies tends to increase since 1950 in these three region. We notice that the age gap between men and women is significantly larger in Bollywood than in Hollywood and West Europe cinema.
-
-![image](/assets/img/age_regions_world.png)
 
 How do the age gap changed with the movie genres ? We see that the age difference is not varying a lot accross genres, staying between 7 and 8.5 years (already a lot!), except for action movies which present a 12 years difference between men and women actors !
 
@@ -136,6 +145,10 @@ And finally, in the 21st century...
 Gender stereotypes can vary significantly between regions of the world. These stereotypes are often shaped by cultural and social norms, as well as historical and political influences.
 
 For example, some regions may have more traditional gender roles, with strict expectations for men and women to conform to certain behaviors and occupations. In other regions, gender roles may be more free and open to individual choice. We'll now determine if certain sterotypes are more visible in certain regions of the world.
+
+The figure below shows the mean age of men and women in movies in USA, India and West Europe, and how it changed with time. The mean age of men and women playing in movies tends to increase since 1950 in these three region. We notice that the age gap between men and women is significantly larger in Bollywood than in Hollywood and West Europe cinema.
+
+![image](/assets/img/age_regions_world.png)
 
 If Jack and Madi worked in Hollywood...
 
