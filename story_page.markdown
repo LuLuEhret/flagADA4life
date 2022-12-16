@@ -70,6 +70,8 @@ We will explore these questions in different settings: what if Madison and Jack 
 
 ## <j>Age gap in male and female film roles </j>
 
+![image](/assets/img/age_regions_world.png)
+
 ...Insert figure, genres? epochs ?....
 
 ## <j>Breaking the glass ceiling: Analysis of gender parity in leading film roles </j>
