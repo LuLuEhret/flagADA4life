@@ -163,9 +163,9 @@ If Jack and Madi worked in Hollywood...
 In many films, men and women are often shown playing stereotypical roles. Our analysis on movie summaries shows that men are often portrayed as being more violent and aggressive, while women are often shown as being more loving and nurturing. These gender stereotypes are harmful because they reinforce harmful gender norms and can limit the way that men and women are perceived in society. It is important for filmmakers to strive for greater representation and diversity in their casting and storytelling in order to break down these harmful stereotypes and create more nuanced and realistic characters.
 
 
-![image](/assets/img/The_end.jpeg)
+<!-- ![image](/assets/img/The_end.jpeg) -->
 
-![image](/assets/img/directed_by.jpg)
+![image](/assets/img/directed_by2.jpg)
 
 
 Thank you for reading our datastory ! 
