@@ -154,5 +154,8 @@ Thank you for reading our datastory !
 
 Big thanks to Pr. Bob West and all the TA team for their advices along the semester and especially Martin for his inputs on our project!
 
-If you're interested in the subject we gathered a few sources.
+If you're interested in the subject your can continue by reading:
+
+-[Using Data Science to Understand the Film
+Industry’s Gender Gap](https://arxiv.org/pdf/1903.06469.pdf)
 
