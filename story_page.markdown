@@ -70,9 +70,15 @@ We will explore these questions in different settings: what if Madison and Jack 
 
 ## <j>Age gap in male and female film roles </j>
 
+Historically, there has been a significant age gap between male and female characters in films, with men often being depicted as older and more established, while women are often portrayed as younger and less experienced. This is very noticeable in romance movies, especially with may-december romance movies, which are movies depicting romantic relationships where there is a drastic in age between the two characters. This means we can expect Madison to have a career in cinema earlier than Jack, and to have difficulties finding roles when she gets old.
+
+The figure below shows the mean age of men and women in movies in USA, India and West Europe, and how it changed with time. The mean age of men and women playing in movies tends to increase since 1950 in these three region. We notice that the age gap between men and women is significantly larger in Bollywood than in Hollywood and West Europe cinema.
+
 ![image](/assets/img/age_regions_world.png)
 
-![image](/assets/img/polar.png)
+How do the age gap changed with the movie genres ? We see that the age difference is not varying a lot accross genres, staying between 7 and 8.5 years (already a lot!), except for action movies which present a 12 years difference between men and women actors !
+
+![image](/assets/img/polar.png){:width="70%"}
 
 
 
@@ -146,7 +152,6 @@ If Jack and Madi worked in Hollywood...
 ## <j>What have we learned ?</j>
 
 In many films, men and women are often shown playing stereotypical roles. Our analysis on movie summaries shows that men are often portrayed as being more violent and aggressive, while women are often shown as being more loving and nurturing. These gender stereotypes are harmful because they reinforce harmful gender norms and can limit the way that men and women are perceived in society. It is important for filmmakers to strive for greater representation and diversity in their casting and storytelling in order to break down these harmful stereotypes and create more nuanced and realistic characters.
-
 
 
 ![image](/assets/img/The_end.jpeg)
