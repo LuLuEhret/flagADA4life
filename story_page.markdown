@@ -68,7 +68,7 @@ We will explore these questions in different settings: what if Madison and Jack 
 🍿The following datastory is meant to be read while eating popcorn in order to enhance the overall experience. After all, what's a good story without a tasty snack to munch on ? 
 {:.note title="Warning"}
 
-## <j>Age Gap in male and female film roles </j>
+## <j>Age gap in male and female film roles </j>
 
 ...Insert figure, genres? epochs ?....
 
@@ -122,7 +122,7 @@ And finally, in the 21st century...
 
 <!-- ## <j>End of the journey : let's go to the 21st century !</j> -->
 
-## <j>Cinema gender Stereotypes: A Cross-Cultural Analysis</j>
+## <j>Cinema gender stereotypes: A cross-cultural analysis</j>
 
 Gender stereotypes can vary significantly between regions of the world. These stereotypes are often shaped by cultural and social norms, as well as historical and political influences.
 
@@ -135,7 +135,7 @@ If Jack and Madi worked in Hollywood...
 ...West Europe...
 
 
-## <j>Influence of Female Filmmakers on Gender Representation in Film"</j>
+## <j>Influence of female filmmakers on gender representation in movies"</j>
 
 ....Separate movies written/produced by male and females and check : importance of roles of women in these movies. Most frequent actions, violence and love.....
 
@@ -153,4 +153,6 @@ In many films, men and women are often shown playing stereotypical roles. Our an
 Thank you for reading our datastory ! 
 
 Big thanks to Pr. Bob West and all the TA team for their advices along the semester and especially Martin for his inputs on our project!
+
+If you're interested in the subject we gathered a few sources.
 
