@@ -81,9 +81,9 @@ One other aspect that impact the choice of actor for a role is the age differenc
 
 Historically, there has been a significant age gap between male and female characters in films, with men often being depicted as older and more established, while women are often portrayed as younger and less experienced. This is very noticeable in romance movies, especially with may-december romance movies, which are movies depicting romantic relationships where there is a drastic in age between the two characters. This means we can expect Madison to have a career in cinema earlier than Jack, and to have difficulties finding roles when she gets old.
 
-The age gap is different depending on the movie genre. Let's have a look at some of the main genres. Action movies have the higher age difference, with a gap of about 12 years. Others genre show a difference of 6 to 8 years. 
+The age gap is different depending on the movie genre. Let's have a look at some of the main genres. Action movies have the higher age difference, with a gap of about 12 years. Others genre show a difference of 6 to 8 years.
 
-![image](/assets/img/polar.png){:width="150%"}
+![image](/assets/img/gender_gap.png){:width="150%"}
 
 
 

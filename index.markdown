@@ -5,7 +5,7 @@
 layout: home
 title: Project introduction
 cover: true
-accent_image: /assets/img/gender.png
+accent_image: /assets/img/gender2.png
 ---
 
 <style>
