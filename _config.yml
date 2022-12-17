@@ -21,7 +21,7 @@
 title: FlagADA4Life
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The website of our project
+  Swipe or scoll to reveal the introduction page
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -44,9 +44,9 @@ author:
   email: lucas.ehret@epfl.ch
 
 menu:
-  - title: A story about movies
+  - title: • A story about movies •
     url:   /project/
-  - title: Team
+  - title: • Team •
     url:   /team/
 
 # Exclude from processing.
