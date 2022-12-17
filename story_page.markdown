@@ -94,9 +94,7 @@ Will Madi have more chances to get less important roles than jack during her car
 
 We undersampled the men actor set to account for the data gender imbalance, so that our results are not influenced by the fact that much more men were in the data. Undersampling is a good approach when much data is available, else it would have been better to oversample women roles.
 {:.note title="Method"}
-
-
- Note that we undersampled the men actor set to account for the data gender imbalance, so that our results are not influenced by the fact that much more men were in the data. 
+ 
 
 ![image](/assets/img/cast_importance.png)
 
