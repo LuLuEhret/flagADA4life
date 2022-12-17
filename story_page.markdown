@@ -98,7 +98,7 @@ We undersampled the men actor set to account for the data gender imbalance, so t
 
  Note that we undersampled the men actor set to account for the data gender imbalance, so that our results are not influenced by the fact that much more men were in the data. 
 
-![image](/assets/img/cast_importance.jpg)
+![image](/assets/img/cast_importance.png)
 
 ## <j>How do actions done by men and women differ in movie summaries : overview </j>
 
