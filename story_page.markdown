@@ -89,7 +89,16 @@ The age gap is different depending on the movie genre. Let's have a look at some
 
 ## <j>Breaking the glass ceiling: Analysis of gender parity in leading film roles </j>
 
-...IMDb...
+Will Madi have more chances to get less important roles than jack during her career ? Sadly, yes. Women tend to play less important roles in general. If we consider the top-3 cast of the movies, obtained with IMDb. In the most important roles, mean first rank for a woman is significantly higher than for a man. We observe that this difference was a bit smaller between 1970 and 1985, but then increased again.
+
+
+We undersampled the men actor set to account for the data gender imbalance, so that our results are not influenced by the fact that much more men were in the data. Undersampling is a good approach when much data is available, else it would have been better to oversample women roles.
+{:.note title="Method"}
+
+
+ Note that we undersampled the men actor set to account for the data gender imbalance, so that our results are not influenced by the fact that much more men were in the data. 
+
+![image](/assets/img/cast_importance.jpg)
 
 ## <j>How do actions done by men and women differ in movie summaries : overview </j>
 
