@@ -59,11 +59,11 @@ Women are underrepresented in cinema in many roles, including actors, directors,
 ## <j>Background stories</j>
 Madison is a 15-year-old girl who lives with her parents and older brother. She attends a competitive high school and is an honors student with a passion for acting. In her free time, Madison takes acting classes and auditions for local theater productions. She has also started to build a small portfolio of professional work, including a few small commercial and film roles. Madison is a confident young woman with a dream of becoming a successful actress.
 
-Jack is a 16-year-old boy who has always dreamed of becoming an actor. He grew up in a small town, and from a young age he was drawn to the world of acting and storytelling. Jack began acting in school plays, and as he got older he started to take acting lessons and audition for professional roles. He has already appeared in a few independent films, and he is determined to continue working hard and building his skills in order to one day play in blockbuster movies. Jack is a passionate and talented young actor with a bright future ahead of him.
+Jake is a 16-year-old boy who has always dreamed of becoming an actor. He grew up in a small town, and from a young age he was drawn to the world of acting and storytelling. Jake began acting in school plays, and as he got older he started to take acting lessons and audition for professional roles. He has already appeared in a few independent films, and he is determined to continue working hard and building his skills in order to one day play in blockbuster movies. Jake is a passionate and talented young actor with a bright future ahead of him.
 
-Which stereotypes will affect Jack and Madison during their acting career ? How will their gender impact the roles they will get to play? 
+Which stereotypes will affect Jake and Madison during their acting career ? How will their gender impact the roles they will get to play? 
 
-We will explore these questions in different settings: what if Madison and Jack were born in the sixties, in the nineties ? What if they work in India, USA, West Europe ? I hope you have your popcorn ready, because it's about to get interesting ! 
+We will explore these questions in different settings: what if Madison and Jake were born in the sixties, in the nineties ? What if they work in India, USA, West Europe ? I hope you have your popcorn ready, because it's about to get interesting ! 
 
 ![image](/assets/img/popcorn2.jpeg)
 
@@ -73,13 +73,13 @@ We will explore these questions in different settings: what if Madison and Jack 
 ## <j>Age gap in male and female film roles </j>
 
 
-Age plays a major role in the type of film an actor plays in. As a aspiring actors, Madisons and Jake's career path will be influenced by the age trends in the different movie genre and localisation in the world. Let's look at the mean actor age in some of the main movie genres for men and women. Jake is more likely to act in romance movies, whereas Madison will probably play in musical or romance movies. As they get older, the first one will have an increasing chance to play in adventure or parody movies, and the second one romantic drama or LGBT movies.
+Age plays a role in the type of film an actor plays in. Madison's and Jake's career path will be influenced by the age trends in the different movie genre and localisation in the world. Let's look at the mean actor age in some of the main movie genres for men and women. Jake is more likely to act in romance movies, whereas Madison will probably play in musical or romance movies. As they get older, the first one will have an increasing chance to play in adventure or parody movies, and the second one romantic drama or LGBT movies.
 
 ![image](/assets/img/age_genre.png)
 
 One other aspect that impact the choice of actor for a role is the age difference between the men and women roles in a movie. 
 
-Historically, there has been a significant age gap between male and female characters in films, with men often being depicted as older and more established, while women are often portrayed as younger and less experienced. This is very noticeable in romance movies, especially with may-december romance movies, which are movies depicting romantic relationships where there is a drastic in age between the two characters. This means we can expect Madison to have a career in cinema earlier than Jack, and to have difficulties finding roles when she gets old.
+Historically, there has been a significant age gap between male and female characters in films, with men often being depicted as older and more established, while women are often portrayed as younger and less experienced. This is very noticeable in romance movies, especially with may-december romance movies, which are movies depicting romantic relationships where there is a drastic in age between the two characters. This means we can expect Madison to have a career in cinema earlier than Jake, and to have difficulties finding roles when she gets old.
 
 The age gap is different depending on the movie genre. Let's have a look at some of the main genres. Action movies have the higher age difference, with a gap of about 12 years. Others genre show a difference of 6 to 8 years.
 
@@ -89,20 +89,26 @@ The age gap is different depending on the movie genre. Let's have a look at some
 
 ## <j>Breaking the glass ceiling: Analysis of gender parity in leading film roles </j>
 
-Will Madi have more chances to get less important roles than jack during her career ? Sadly, yes. Women tend to play less important roles in general. If we consider the top-3 cast of the movies, obtained with IMDb. In the most important roles, mean first rank for a woman is significantly higher than for a man. We observe that this difference was a bit smaller between 1970 and 1985, but then increased again.
+Will Madi have more chances to get less important roles than Jake during her career ? Sadly, yes. Women tend to play less important roles in general. If we consider the top-3 cast of the movies, obtained with IMDb. In the most important roles, mean first rank of womens (meaning the average position of the first woman when there is one in the movie) is significantly higher than for a man. We observe that this difference was a bit smaller between 1970 and 1985, but then increased again.
 
+
+![image](/assets/img/cast_importance.png)
 
 We undersampled the men actor set to account for the data gender imbalance, so that our results are not influenced by the fact that much more men were in the data. Undersampling is a good approach when much data is available, else it would have been better to oversample women roles.
 {:.note title="Method"}
  
 
-![image](/assets/img/cast_importance.png)
-
 ## <j>How do actions done by men and women differ in movie summaries : overview </j>
 
 ...fig more popular actions...
 
-Now that we have seen that some actions are more associated to a gender, we will focus on the two most stereotyped lexical fields : love for women and violence for men. The more present a stereotype is in the movie summaries, the more the difference of use of the lexical field of the stereotype between male and female genders will be important. Now let's see how these stereotypes changed in time in the summaries.
+Now that we have seen that some actions are more associated to a gender, we will focus on different stereotypes via analyzing the number of occurences of actions part of specific lexical fields : love and seduction, violence, intelligence, success and housekeeping/raising children (a vocabulary of typical action that someone does in the house). The more present a stereotype is in the movie summaries, the more the difference of use of the lexical field of the stereotype between male and female genders will be important. Now let's see if these stereotypes importance change in time in the summaries. 
+
+
+🍿Whoa, slow down there! I thought we were supposed to be enjoying this story together, not inhaling all the popcorn in record time.  I can't believe you polished off that whole bowl before I even made it through the firsts analyses !
+![image](/assets/img/no_popcorn.jpeg)
+
+## <j>Differences in the stereotypes between different genres of movies.</j>
 
 
 
@@ -112,11 +118,11 @@ Now that we have seen that some actions are more associated to a gender, we will
 ## <j>Transformations of cinema gender stereotypes through time</j>
 <!-- ## <j>Let's start our journey back in time : direction the 60's !</j> -->
 
-What if Madison and Jack were starting off their careers in the 60's ? Well, here is a list of actions that Madison and Jack have way more chance to do compare to the others.
+What if Madison and Jake were starting off their careers in the 60's ? Well, here is a list of actions that Madison and Jake have way more chance to do compare to the others.
 
 ...add figure with strerotyped words...
 
-We observe that ... (text with Madison and Jack)
+We observe that ... (text with Madison and Jake)
 
 ...add violence and love logistic regression...
 
@@ -137,10 +143,7 @@ And finally, in the 21st century...
 
 <!-- ## <j>Now it's time to go to the 90's !</j> -->
 
-***
 
-🍿Whoa, slow down there! I thought we were supposed to be enjoying this story together, not inhaling all the popcorn in record time.  I can't believe you polished off that whole bowl before I even made it through the firsts analyses !
-![image](/assets/img/no_popcorn.jpeg)
 
 <!-- ## <j>End of the journey : let's go to the 21st century !</j> -->
 
