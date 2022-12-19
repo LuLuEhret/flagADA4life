@@ -116,7 +116,7 @@ It is possible that gender stereotypes may vary between different genres of film
 
 Contrary to our first assumptions, the stereotypes, which we defined as the difference of action frequencies between males and females, tend to be smaller in the genre they are the most linked to. For example, the difference of frequencies of actions linked to love/seduction is smaller in the romance movie. For violence, the difference is the smallest in action movies. We think this is because in a romance movie, all main characters may potentially be described as being in love so the difference is smaller. Success difference does not vary a lot accross genres, it is always associated more to men. Men tend to be more described as intelligent than women in thriller and action movies, while in romance or comedy movies there is no difference. 
 
-![image](/assets/img/categories_by_genre.jpg)
+![image](/assets/img/categories_by_genre.png)
 
 
 
@@ -149,7 +149,7 @@ The figure below shows the mean age of men and women in movies in USA, India and
 
 We observe that the stereotypes are much more present in India than in West Europe and USA.
 
-![image](/assets/img/categories_by_regions.jpeg)
+![image](/assets/img/categories_by_region.png)
 
 If Jack and Madi worked in Hollywood...
 
@@ -165,12 +165,12 @@ What happens when the director and writers of a movie include women ? Do the ste
 If there is one woman in the writers, we see that women tend to be significantly more successful compared to men, while if there are no women in the writers, men are depicted as being more successful. Intelligence also is more associated to women. Violence stereotype for men is reinforced and love stereotype is smaller. 
 
 
-![image](/assets/img/woman_writing.jpeg)
+![image](/assets/img/woman_writer.png)
 
 The same phenomenon is observable when we do the same analysis on the directors of the movies.
 
 
-![image](/assets/img/woman_directing.jpeg)
+![image](/assets/img/woman_directing.png)
 
 
 ## <j>What have we learned ?</j>
