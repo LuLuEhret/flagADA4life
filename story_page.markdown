@@ -160,7 +160,18 @@ If Jack and Madi worked in Hollywood...
 
 ## <j>Influence of female filmmakers on gender representation in movies</j>
 
-....Separate movies written/produced by male and females and check : importance of roles of women in these movies. Most frequent actions, violence and love.....
+What happens when the director and writers of a movie include women ? Do the stereotypes still remain as important or does it change something ?
+
+If there is one woman in the writers, we see that women tend to be significantly more successful compared to men, while if there are no women in the writers, men are depicted as being more successful. Intelligence also is more associated to women. Violence stereotype for men is reinforced and love stereotype is smaller. 
+
+
+![image](/assets/img/woman_writing.jpeg)
+
+The same phenomenon is observable when we do the same analysis on the directors of the movies.
+
+
+![image](/assets/img/woman_directing.jpeg)
+
 
 ## <j>What have we learned ?</j>
 
