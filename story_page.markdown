@@ -100,7 +100,9 @@ We undersampled the men actor set to account for the data gender imbalance, so t
 
 ## <j>How do actions done by men and women differ in movie summaries : overview </j>
 
-...fig more popular actions...
+As a first exploratory analysis, we seek the actions which have a the biggest difference in frequency of occurence between male and females. We only keep actions that appear more than a threshold frequency both for males and females so that our analysis is meaningful. Below, you can observe the top 30 actions that are much more frequent for men on the left and for women on the right. What strikes us is the number of words associated to violence for men  ("shoot", "fight", "attack", "throw", "force"...) and to love for women ("love", "marry", "seduce", "lover", "couple"). Other stereotypes are also starting to appear like the fact that women "spend" more than men, and men "order", "plan", "manage". 
+
+![image](/assets/img/faces_stereotypes.png)
 
 Now that we have seen that some actions are more associated to a gender, we will focus on different stereotypes via analyzing the number of occurences of actions part of specific lexical fields : love and seduction, violence, intelligence, success and housekeeping/raising children (a vocabulary of typical action that someone does in the house). The more present a stereotype is in the movie summaries, the more the difference of use of the lexical field of the stereotype between male and female genders will be important. Now let's see if these stereotypes importance change in time in the summaries. 
 
