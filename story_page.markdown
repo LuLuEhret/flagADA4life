@@ -110,34 +110,22 @@ Now that we have seen that some actions are more associated to a gender, we will
 
 ## <j>Differences in the stereotypes between different genres of movies.</j>
 
+It is possible that gender stereotypes may vary between different genres of film. For example, action movies may portray men in more dominant and aggressive roles, while romantic comedies may depict women in more traditionally feminine roles. Thus, we are interested in exploring this phenomenon and understanding how gender stereotypes are represented in different genres of film. The plot below shows how the importance of our different categories of stereotypes vary accros the five most frequent genres: drama, comedy, romance, action and thriller.
 
+Contrary to our first assumptions, the stereotypes, which we defined as the difference of action frequencies between males and females, tend to be smaller in the genre they are the most linked to. For example, the difference of frequencies of actions linked to love/seduction is smaller in the romance movie. For violence, the difference is the smallest in action movies. We think this is because in a romance movie, all main characters may potentially be described as being in love so the difference is smaller. Success difference does not vary a lot accross genres, it is always associated more to men. Men tend to be more described as intelligent than women in thriller and action movies, while in romance or comedy movies there is no difference. 
 
+![image](/assets/img/categories_by_genre.png)
 
 
 
 ## <j>Transformations of cinema gender stereotypes through time</j>
 <!-- ## <j>Let's start our journey back in time : direction the 60's !</j> -->
 
-What if Madison and Jake were starting off their careers in the 60's ? Well, here is a list of actions that Madison and Jake have way more chance to do compare to the others.
-
-...add figure with strerotyped words...
-
-We observe that ... (text with Madison and Jake)
-
-...add violence and love logistic regression...
+We now look at the evolution of our four categories of actions through times. We see that the love action frequency difference between men and women tend to become smaller between 1950 and 2010, but love actions still remain more frequent for women. The violence stereotype decreased from 1960 to 1974, then increased from 1974 to 2010. Success did not vary a lot through time, always being more associated to men. The intelligence sterotype decreased from 1950 to 1974, then increased until 2010 (+20% for men). You can observe the different trends in the plots below.
 
 
-Now in the 90's, ...
+![image](/assets/img/categories_by_year.png)
 
-...add figure with strerotyped words...
-
-...add violence and love logistic regression...
-
-And finally, in the 21st century...
-
-...add figure with strerotyped words...
-
-...add violence and love logistic regression...
 
 
 
