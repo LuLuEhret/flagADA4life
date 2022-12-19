@@ -114,7 +114,7 @@ It is possible that gender stereotypes may vary between different genres of film
 
 Contrary to our first assumptions, the stereotypes, which we defined as the difference of action frequencies between males and females, tend to be smaller in the genre they are the most linked to. For example, the difference of frequencies of actions linked to love/seduction is smaller in the romance movie. For violence, the difference is the smallest in action movies. We think this is because in a romance movie, all main characters may potentially be described as being in love so the difference is smaller. Success difference does not vary a lot accross genres, it is always associated more to men. Men tend to be more described as intelligent than women in thriller and action movies, while in romance or comedy movies there is no difference. 
 
-![image](/assets/img/categories_by_genre.png)
+![image](/assets/img/categories_by_genre.jpg)
 
 
 
@@ -144,6 +144,10 @@ For example, some regions may have more traditional gender roles, with strict ex
 The figure below shows the mean age of men and women in movies in USA, India and West Europe, and how it changed with time. The mean age of men and women playing in movies tends to increase since 1950 in these three region. We notice that the age gap between men and women is significantly larger in Bollywood than in Hollywood and West Europe cinema.
 
 ![image](/assets/img/age_regions_world.png)
+
+We observe that the stereotypes are much more present in India than in West Europe and USA.
+
+![image](/assets/img/categories_by_regions.jpeg)
 
 If Jack and Madi worked in Hollywood...
 
