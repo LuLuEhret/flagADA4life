@@ -180,7 +180,7 @@ In many films, men and women are often shown playing stereotypical roles. Our an
 
 <!-- ![image](/assets/img/The_end.jpeg) -->
 
-![image](/assets/img/directed_by2.jpg)
+![image](/assets/img/directed_by3.jpg)
 
 
 Thank you for reading our datastory ! 
