@@ -39,7 +39,7 @@ While it is important to recognize and celebrate the diversity of gender identit
 ## <j>Datasets</j>
 
 To study the representations of stereotypes in cinema, we will exploit the [CMU movies summary dataset](http://www.cs.cmu.edu/~ark/personas/), which gathers various information on the actors, characters, and the pre-processed movie summaries. From these pre-processed summaries, we can gather valuable data on the actions done by characters, and associate these actions to male and female characters.
-We also enrich our data with IMDb (Internet Movie Database) [datasets](https://www.imdb.com/interfaces/) from which we can gather the cast and crew list, the main actors and actresses, and ratings of movies.
+We also enrich our data with [IMDb datasets](https://www.imdb.com/interfaces/) (Internet Movie Database) from which we can gather the cast and crew list, the main actors and actresses, and ratings of movies.
 
 The picture below shows the dataset's movies repartition according to the countries in which they were produced, the genre to which they belong, and their release year. We observe that most of the movies are dramas, produced in USA after 1980. This will have an impact on the results we obtain, as the stereotypes depicted will mostly come from the US. 
 
@@ -70,7 +70,7 @@ We will explore these questions in different settings: what if Madison and Jake 
 🍿The following datastory is meant to be read while eating popcorn in order to enhance the overall experience. After all, what's a good story without a tasty snack to munch on ? 
 {:.note title="Warning"}
 
-## <j>Age gap in male and female film roles </j>
+## <j>Importance of age in male and female film roles </j>
 
 
 Age plays a role in the type of film an actor plays in. Madison's and Jake's career path will be influenced by the age trends in the different movie genre and localisation in the world. Let's look at the mean actor age in some of the main movie genres for men and women. Jake is more likely to act in romance movies, whereas Madison will probably play in musical or romance movies. As they get older, the first one will have an increasing chance to play in adventure or parody movies, and the second one romantic drama or LGBT movies.
@@ -89,7 +89,7 @@ The age gap is different depending on the movie genre. Let's have a look at some
 
 ## <j>Breaking the glass ceiling: Analysis of gender parity in leading film roles </j>
 
-Will Madi have more chances to get less important roles than Jake during her career ? Sadly, yes. Women tend to play less important roles in general. If we consider the top-3 cast of the movies, obtained with IMDb. In the most important roles, mean first rank of womens (meaning the average position of the first woman when there is one in the movie) is significantly higher than for a man. We observe that this difference was a bit smaller between 1970 and 1985, but then increased again.
+Will Madison have more chances to get less important roles than Jake during her career ? Sadly, yes. Women tend to play less important roles in general. If we consider the top-3 cast of the movies, obtained with IMDb. In the most important roles, mean first rank of womens (meaning the average position of the first woman when there is one in the movie) is significantly higher than for a man, meaning that, in general, they have a lower importance role than men. We observe that this difference was a bit smaller between 1970 and 1985, but then increased again.
 
 
 ![image](/assets/img/cast_importance.png)
@@ -104,10 +104,10 @@ As a first exploratory analysis, we seek the actions which have a the biggest di
 
 ![image](/assets/img/faces_stereotypes.png)
 
-Now that we have seen that some actions are more associated to a gender, we will focus on different stereotypes via analyzing the number of occurences of actions part of specific lexical fields : [love and seduction, violence, intelligence, success](/appendix/) and housekeeping/raising children (a vocabulary of typical action that someone does in the house). The more present a stereotype is in the movie summaries, the more the difference of use of the lexical field of the stereotype between male and female genders will be important. Now let's see if these stereotypes importance change in time in the summaries. 
+Now that we have seen that some actions are more associated to a gender, we will focus on different stereotypes via analyzing the number of occurences of actions part of specific lexical fields : [love and seduction, violence, intelligence, success](/appendix/). The more present a stereotype is in the movie summaries, the more the difference of use of the lexical field of the stereotype between male and female genders will be important. Now let's see if these stereotypes importance change in time in the summaries. 
 
 
-🍿Whoa, slow down there! I thought we were supposed to be enjoying this story together, not inhaling all the popcorn in record time.  I can't believe you polished off that whole bowl before I even made it through the firsts analyses !
+🍿*Whoa, slow down there! I thought we were supposed to be enjoying this story together, not inhaling all the popcorn in record time.  I can't believe you polished off that whole bowl before I even made it through the firsts analyses !*
 ![image](/assets/img/no_popcorn.jpeg)
 
 ## <j>Differences in the stereotypes between different genres of movies.</j>
