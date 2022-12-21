@@ -104,7 +104,7 @@ As a first exploratory analysis, we seek the actions which have a the biggest di
 
 ![image](/assets/img/faces_stereotypes.png)
 
-Now that we have seen that some actions are more associated to a gender, we will focus on different stereotypes via analyzing the number of occurences of actions part of specific lexical fields : love and seduction, violence, intelligence, success and housekeeping/raising children (a vocabulary of typical action that someone does in the house). The more present a stereotype is in the movie summaries, the more the difference of use of the lexical field of the stereotype between male and female genders will be important. Now let's see if these stereotypes importance change in time in the summaries. 
+Now that we have seen that some actions are more associated to a gender, we will focus on different stereotypes via analyzing the number of occurences of actions part of specific lexical fields : [love and seduction, violence, intelligence, success](/appendix/) and housekeeping/raising children (a vocabulary of typical action that someone does in the house). The more present a stereotype is in the movie summaries, the more the difference of use of the lexical field of the stereotype between male and female genders will be important. Now let's see if these stereotypes importance change in time in the summaries. 
 
 
 🍿Whoa, slow down there! I thought we were supposed to be enjoying this story together, not inhaling all the popcorn in record time.  I can't believe you polished off that whole bowl before I even made it through the firsts analyses !
@@ -147,15 +147,15 @@ The figure below shows the mean age of men and women in movies in USA, India and
 
 ![image](/assets/img/age_regions_world.png)
 
-We observe that the stereotypes are much more present in India than in West Europe and USA.
+Let's also have a lool at the stereotypes in the different regions:
 
 ![image](/assets/img/categories_by_region.png)
 
-If Jack and Madi worked in Hollywood...
+The actions performed by men and women are generally the same in the three world regions. However, some changes can still be observed. The stereotypes in bollywood are exacerbated compared to the other regions. Women are expected to be perform love and seduction actions, whereas men are more violent and more subject to success. 
 
-...Bollywood...
+As a woman, Madison will be more subject to clichés in Bollywood than in other regions, even though the stereotypes are observed anyway. 
 
-...West Europe...
+
 
 
 ## <j>Influence of female filmmakers on gender representation in movies</j>
