@@ -31,33 +31,5 @@ Among all the proposed datasets, we choose to retain the [CMU movie summary corp
 ![image](/assets/img/clichés.jpg)
 
 
-
-
-You can add a note.
-{:.note}
-
-A custom label.
-{:.note title="Attention"}
-
-You can add large text.
-{:.lead}
-
-![Full-width image](https://via.placeholder.com/800x100){:.lead width="800" height="100" loading="lazy"}
-A caption for an image.
-{:.figcaption}
-
-> You can make a quote "pop out".
-{:.lead}
-
-I'm faded, faded, faded.
-{:.faded}
-
-
-| First cell|Second cell|Third cell
-| First | Second | Third |
-
-First | Second | | Fourth |
-
-
 [git_link]:  https://github.com/epfl-ada/ada-2022-project-flagada4life
 [CMU]: http://www.cs.cmu.edu/~ark/personas/

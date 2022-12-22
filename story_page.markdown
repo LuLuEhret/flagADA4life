@@ -34,12 +34,14 @@ On the other hand, male characters also have their share of clichés. Some recur
 
 The portrayal of a gender in cinema can significantly impact how women and men are perceived and treated in society and thus reinforce gender stereotypes in real life. They can even contribute to oppression of the female gender. For example, roles where women are weak and dependent on men can make it more difficult for women to be seen as strong and independent, and can limit their opportunities and choices in life.
 
+In this little datastory, we'll study gender stereotypes in movie summaries, for different epochs and regions. 
+
 {:.note}
 While it is important to recognize and celebrate the diversity of gender identities, we will not be analyzing the representation of non-binary genders in cinema in this study because they make up a small portion of the population and lack representation in our data.
 
 ## <j>Datasets</j>
 
-To study the representations of stereotypes in cinema, we will exploit the [CMU movies summary dataset](http://www.cs.cmu.edu/~ark/personas/), which gathers various information on the actors, characters, and the pre-processed movie summaries. From these pre-processed summaries, we can gather valuable data on the actions done by characters, and associate these actions to male and female characters.
+To study the representation of stereotypes in cinema, we will exploit the [CMU movies summary dataset](http://www.cs.cmu.edu/~ark/personas/), which gathers various information on the actors, characters, and the pre-processed movie summaries. From these pre-processed summaries, we can gather valuable data on the actions done by characters, and associate these actions to male and female characters.
 We also enrich our data with [IMDb datasets](https://www.imdb.com/interfaces/) (Internet Movie Database) from which we can gather the cast and crew list, the main actors and actresses, and ratings of movies.
 
 The picture below shows the dataset's movies repartition according to the countries in which they were produced, the genre to which they belong, and their release year. We observe that most of the movies are dramas, produced in USA after 1980. This will have an impact on the results we obtain, as the stereotypes depicted will mostly come from the US. 
@@ -129,6 +131,8 @@ We now look at the evolution of our four categories of actions through times. We
 
 ![image](/assets/img/categories_by_year.png)
 
+Stereotypes are generally maintained through time, despite some variations. No matter the year in which our actors will play roles, we can expect them to be stereotypical.
+
 
 
 
@@ -148,13 +152,13 @@ The figure below shows the mean age of men and women in movies in USA, India and
 
 ![image](/assets/img/age_regions_world.png)
 
-Let's also have a lool at the stereotypes in the different regions:
+Let's also have a look at the stereotypes in the different regions:
 
 ![image](/assets/img/categories_by_region.png)
 
-The actions performed by men and women are generally the same in the three world regions. However, some changes can still be observed. The stereotypes in bollywood are exacerbated compared to the other regions. Women are expected to perfor more actions related to love and seduction, whereas men are more violent and more subject to success. 
+The actions performed by men and women are generally the same in the three world regions. However, some changes can still be observed. The stereotypes in bollywood are exacerbated compared to the other regions. Women are expected to perform more actions related to love and seduction, whereas men are more violent and more subject to success. 
 
-As a woman, Madison will be more subject to clichés in Bollywood than in other regions, even though the stereotypes are observed anyway. 
+As a woman, Madison will be more subject to clichés in Bollywood than in other regions, even though the stereotypes are observed anyway. Same for Jake, which will maybe play more violent characters in this region of the world.
 
 
 
@@ -163,7 +167,7 @@ As a woman, Madison will be more subject to clichés in Bollywood than in other 
 
 What happens when the director and writers of a movie include women ? Do the stereotypes still remain as important or does it change something ?
 
-If there is one woman in the writers, we see that women tend to be significantly more successful compared to men, while if there are no women in the writers, men are depicted as being more successful. Intelligence also is more associated to women. Violence stereotype for men is reinforced and love stereotype is smaller. 
+If there is one woman in the writers, we see that women tend to be significantly more successful compared to men, while if there are no women in the writers, men are depicted as being more successful. Intelligence also is more associated to women. Violence stereotype for men is reinforced and love stereotype becomes less important.
 
 
 ![image](/assets/img/woman_writer.png)
@@ -173,10 +177,18 @@ The same phenomenon is observable when we do the same analysis on the directors 
 
 ![image](/assets/img/woman_directing.png)
 
+We see that having a woman at important roles seems to have an impact on how gender stereotypes are depicted. A woman writer can bring a different perspective to the table and create more opportunities for other women. However, this does not prevent to have stereotypes in the movie. In fact, men tend to be described as more violent in movies written or directed by a woman.
+
+If Madi wants to play in movies in which women are successful and intelligent figures, she might consider playing in more films directed by other women.
+
+
+
 
 ## <j>What have we learned ?</j>
 
-In many films, men and women are often shown playing stereotypical roles. Our analysis on movie summaries shows that men are often portrayed as being more violent and aggressive, while women are often shown as being more loving and nurturing. These gender stereotypes are harmful because they reinforce harmful gender norms and can limit the way that men and women are perceived in society. It is important for filmmakers to strive for greater representation and diversity in their casting and storytelling in order to break down these harmful stereotypes and create more nuanced and realistic characters.
+By checking which actions are more associated to a gender in movie summaries, we have seen that in many films, men and women are often shown playing stereotypical roles. Our analysis on movie summaries shows that men are often portrayed as being more violent and aggressive, while women are often shown as being more loving. These two stereotypes are really important but we can also find others. For example, actions linked to intelligence or success are more associated to men. These gender stereotypes are harmful because they reinforce harmful gender norms and can limit the way that men and women are perceived in society. It is important for filmmakers to strive for greater representation and diversity in their casting and storytelling in order to break down these stereotypes and create more nuanced and realistic characters. One possible solution to attenuate some of these stereotypes is to balance genders in the industry. Indeed, we saw that having women in the writers and directors of a movie could impact actions distribution within a gender.
+
+Madi and Jake will probably experience these stereotypes. For example, Madi as a woman may find that she is more likely to be offered roles that are traditionally seen as being more suitable for women, such as romantic leads or maternal figures. On the other hand, Jake as a man may find that he is more likely to be offered roles that are traditionally seen as being more suitable for men, such as action heroes or authority figures. Anyway, we wish luck to both of them ! 
 
 
 <!-- ![image](/assets/img/The_end.jpeg) -->
