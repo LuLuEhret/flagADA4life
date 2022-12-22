@@ -3,6 +3,7 @@ layout: page
 title:  "Gender representation in the film industry"
 permalink: /project/
 accent_image: /assets/img/cover_pic3.png
+accent_color: rgb(225, 72, 5)
 ---
 
 <style>
@@ -73,7 +74,7 @@ We will explore these questions in different settings: what if Madison and Jake 
 ## <j>Importance of age in male and female film roles </j>
 
 
-Age plays a role in the type of film an actor plays in. Madison's and Jake's career path will be influenced by the age trends in the different movie genre and localisation in the world. Let's look at the mean actor age in some of the main movie genres for men and women. Jake is more likely to act in romance movies, whereas Madison will probably play in musical or romance movies. As they get older, the first one will have an increasing chance to play in adventure or parody movies, and the second one romantic drama or LGBT movies.
+Age plays a role in the type of film an actor plays in. Madison's and Jake's career path will be influenced by the age trends in the different movie genre and localisation in the world. Let's look at the mean actor age in some of the main movie genres for men and women. Jake is more likely to act in romance movies, whereas Madison will probably play in musical or romance movies. As they get older, the first one will have an increasing chance to play in adventure, thriller or parody movies, and the second one drama, comedy or parody movies.
 
 ![image](/assets/img/age_genre.png)
 
@@ -151,7 +152,7 @@ Let's also have a lool at the stereotypes in the different regions:
 
 ![image](/assets/img/categories_by_region.png)
 
-The actions performed by men and women are generally the same in the three world regions. However, some changes can still be observed. The stereotypes in bollywood are exacerbated compared to the other regions. Women are expected to be perform love and seduction actions, whereas men are more violent and more subject to success. 
+The actions performed by men and women are generally the same in the three world regions. However, some changes can still be observed. The stereotypes in bollywood are exacerbated compared to the other regions. Women are expected to perfor more actions related to love and seduction, whereas men are more violent and more subject to success. 
 
 As a woman, Madison will be more subject to clichés in Bollywood than in other regions, even though the stereotypes are observed anyway. 
 

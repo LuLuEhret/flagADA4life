@@ -6,6 +6,7 @@ layout: home
 title: Project introduction
 cover: true
 accent_image: /assets/img/gender3.png
+accent_color: rgb(225, 72, 5)
 ---
 
 <style>

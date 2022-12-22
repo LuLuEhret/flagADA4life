@@ -39,7 +39,7 @@ plugins:
   - jekyll-include-cache
 #-----------------------------------------
 #accent_image: /assets/img/image1.JPG
-accent_color: rgb(1,1,1)
+#accent_color: rgb(1,1,1)
 
 author:
   name:  Lucas Ehret
