@@ -46,10 +46,6 @@ We also enrich our data with [IMDb datasets](https://www.imdb.com/interfaces/) (
 
 The picture below shows the dataset's movies repartition according to the countries in which they were produced, the genre to which they belong, and their release year. We observe that most of the movies are dramas, produced in USA after 1980. This will have an impact on the results we obtain, as the stereotypes depicted will mostly come from the US.
 
-<pre>
-
-
-</pre>
 ![image](/assets/img/stats_movies.png)
 
 Women are underrepresented in cinema in many roles, including actors, directors, and writers. Despite making up roughly half of the population, women are often not given the same opportunities as men in the film industry. This lack of representation is a problem that needs to be addressed so that women can have equal access to the opportunities and benefits of working in cinema. You can check below the percentage of men and women in key cinema jobs. The high percentage of male directors and writers means that the stories and perspectives that are being told in films are largely coming from a male perspective.
@@ -80,7 +76,7 @@ We will explore these questions in different settings: what if Madison and Jake 
 ## <j>Importance of age in male and female film roles </j>
 
 
-Age plays a role in the type of film an actor gets to play. Madison's and Jake's career path will be influenced by the age trends of the different movie genres and regions of the world. Let's look at the mean actors' age in some of the main movie genres for men and women. Being young Jake has a bit more chance to act in romance movies and drama, whereas Madison will have more chance to play in musical or romance movies. As they get older, the first one will have an increasing chance to play in adventure, thriller or parody movies, and the second one drama, comedy or parody movies.
+Age plays a role in the type of film an actor gets to play. Let's look at the mean actors' age in some of the main movie genres for men and women. For men, adventure, thriller and parody are the genres that have the highest mean age, and for women the genres are comedy, drama and parody. The genres that the lowest mean age are drama, romance and short films, while for women, it is romance action and musical. 
 
 ![image](/assets/img/age_genre.png)
 
