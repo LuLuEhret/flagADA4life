@@ -86,7 +86,9 @@ Historically, there has been a significant age gap between male and female chara
 
 The age gap is different depending on the movie genre. Let's have a look at some of the main genres. Action movies have the higher age difference, with a gap of about 12 years. Others genre show a difference of 6 to 8 years. Dramas present the smaller age difference, with males on average six years older than females.
 
-![image](/assets/img/age_diff.png){:width="60%"}
+<p align="center">
+  <img src="/assets/img/age_diff.png" alt="image" style="width:60%">
+</p>
 
 
 
@@ -99,6 +101,10 @@ Will Madison have more chances to get less important roles than Jake during her 
 
 We undersampled the men actor set to account for the data gender imbalance, so that our results are not influenced by the fact that much more men were in the data. Undersampling is a good approach when much data is available, else it would have been better to oversample women roles.
 {:.note title="Method"}
+
+Now, we look into the summaries to find the conditional probability of getting a role knowing the gender. In the summaries, the first role is defined as the characters which is the more referred to. We see that men tend to have more chance of getting the main character of the movie, while women characters 2 to 4 in decreasing importance in summary.
+
+![image](/assets/img/role_summary.png)
  
 
 ## <j>How do actions done by men and women differ in movie summaries : overview </j>
