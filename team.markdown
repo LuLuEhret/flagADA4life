@@ -23,7 +23,7 @@ accent_image: /assets/img/cover_pic2.png
 
 <div style="clear: both;">
   <div style="float: left;">
-    <img src="/assets/img/men_face.jpg" alt="" style="float: right; margin-top: 1em;width:40%">
+    <img src="/assets/img/id_tanguy.png" alt="" style="float: right; margin-top: 1em;width:40%">
     <h2 style="border-top-style: solid;border-top-width: 4px;margin-top: 9rem;">Tanguy Lewko, MT-MA3</h2>
     MT-MA3, <em>Robotics</em>, EPFL
   </div>
