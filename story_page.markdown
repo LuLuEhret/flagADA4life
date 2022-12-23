@@ -80,6 +80,9 @@ Age plays a role in the type of film an actor gets to play. Madison's and Jake's
 
 ![image](/assets/img/age_genre.png)
 
+*This plot was made by directly selecting the most frequent movie genres for men and women, that's why the list of genre is different in both plots.*
+{:.note}
+
 One other aspect that impact the choice of actor for a role is the age difference between the men and women roles in a movie. 
 
 Historically, there has been a significant age gap between male and female characters in films, with men often being depicted as older and more established, while women are often portrayed as younger and less experienced. This is very noticeable in romance movies, especially with may-december romance movies, which are movies depicting romantic relationships where there is a drastic in age between the two characters. This means we can expect Madison to have a career in cinema earlier than Jake, and to have difficulties finding roles when she gets old.
