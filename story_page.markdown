@@ -76,7 +76,7 @@ We will explore these questions in different settings: what if Madison and Jake 
 ## <j>Importance of age in male and female film roles </j>
 
 
-Age plays a role in the type of film an actor plays in. Madison's and Jake's career path will be influenced by the age trends in the different movie genre and localisation in the world. Let's look at the mean actor age in some of the main movie genres for men and women. Jake is more likely to act in romance movies, whereas Madison will probably play in musical or romance movies. As they get older, the first one will have an increasing chance to play in adventure, thriller or parody movies, and the second one drama, comedy or parody movies.
+Age plays a role in the type of film an actor gets to play. Madison's and Jake's career path will be influenced by the age trends of the different movie genres and regions of the world. Let's look at the mean actors' age in some of the main movie genres for men and women. Being young Jake has a bit more chance to act in romance movies and drama, whereas Madison will have more chance to play in musical or romance movies. As they get older, the first one will have an increasing chance to play in adventure, thriller or parody movies, and the second one drama, comedy or parody movies.
 
 ![image](/assets/img/age_genre.png)
 
@@ -84,7 +84,7 @@ One other aspect that impact the choice of actor for a role is the age differenc
 
 Historically, there has been a significant age gap between male and female characters in films, with men often being depicted as older and more established, while women are often portrayed as younger and less experienced. This is very noticeable in romance movies, especially with may-december romance movies, which are movies depicting romantic relationships where there is a drastic in age between the two characters. This means we can expect Madison to have a career in cinema earlier than Jake, and to have difficulties finding roles when she gets old.
 
-The age gap is different depending on the movie genre. Let's have a look at some of the main genres. Action movies have the higher age difference, with a gap of about 12 years. Others genre show a difference of 6 to 8 years.
+The age gap is different depending on the movie genre. Let's have a look at some of the main genres. Action movies have the higher age difference, with a gap of about 12 years. Others genre show a difference of 6 to 8 years. Dramas present the smaller age difference, with males on average six years older than females.
 
 ![image](/assets/img/gender_gap.png){:width="150%"}
 
@@ -156,7 +156,7 @@ Let's also have a look at the stereotypes in the different regions:
 
 ![image](/assets/img/categories_by_region.png)
 
-The actions performed by men and women are generally the same in the three world regions. However, some changes can still be observed. The stereotypes in bollywood are exacerbated compared to the other regions. Women are expected to perform more actions related to love and seduction, whereas men are more violent and more subject to success. 
+The actions performed by men and women are generally the same in the three world regions. However, some changes can still be observed. The stereotypes in Bollywood (India) are exacerbated compared to the other regions. Women are expected to perform more actions related to love and seduction, whereas men are more violent and more subject to success. 
 
 As a woman, Madison will be more subject to clichés in Bollywood than in other regions, even though the stereotypes are observed anyway. Same for Jake, which will maybe play more violent characters in this region of the world.
 
