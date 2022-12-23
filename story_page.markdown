@@ -86,7 +86,7 @@ Historically, there has been a significant age gap between male and female chara
 
 The age gap is different depending on the movie genre. Let's have a look at some of the main genres. Action movies have the higher age difference, with a gap of about 12 years. Others genre show a difference of 6 to 8 years. Dramas present the smaller age difference, with males on average six years older than females.
 
-![image](/assets/img/gender_gap.png){:width="150%"}
+![image](/assets/img/age_diff.png){:width="60%"}
 
 
 
