@@ -119,12 +119,12 @@ As a first exploratory analysis, we seek the actions which have a the biggest di
 Now that we have seen that some actions are more associated to a gender, we will focus on different stereotypes via analyzing the number of occurences of actions part of specific lexical fields : [love and seduction, violence, intelligence, success](/appendix/). The more present a stereotype is in the movie summaries, the more the difference of use of the lexical field of the stereotype between male and female genders will be important. Now let's see if these stereotypes importance change in time in the summaries. 
 
 
-🍿*Whoa, slow down there! I thought we were supposed to be enjoying this story together, not inhaling all the popcorn in record time.  I can't believe you polished off that whole bowl before I even made it through the firsts analyses !*
+🍿*Whoa, slow down there! I thought we were supposed to be enjoying this story together, not inhaling all the popcorn in record time...  I can't believe you polished off that whole bowl before I even made it through the firsts analyses !*
 ![image](/assets/img/no_popcorn.jpeg)
 
 ## <j>Differences in the stereotypes between different genres of movies.</j>
 
-It is possible that gender stereotypes may vary between different genres of film. For example, action movies may portray men in more dominant and aggressive roles, while romantic comedies may depict women in more traditionally feminine roles. Thus, we are interested in exploring this phenomenon and understanding how gender stereotypes are represented in different genres of film. The plot below shows how the importance of our different categories of stereotypes vary accros the five most frequent genres: drama, comedy, romance, action and thriller.
+It is possible that gender stereotypes may vary between different genres of films. For example, action movies may portray men in more dominant and aggressive roles, while romantic comedies may depict women in more traditionally feminine roles. Thus, we are interested in exploring this phenomenon and understanding how gender stereotypes are represented in different genres of film. The plot below shows how the importance of our different categories of stereotypes vary accros the five most frequent genres: drama, comedy, romance, action and thriller.
 
 Contrary to our first assumptions, the stereotypes, which we defined as the difference of action frequencies between males and females, tend to be smaller in the genre they are the most linked to. For example, the difference of frequencies of actions linked to love/seduction is smaller in the romance movie. For violence, the difference is the smallest in action movies. We think this is because in a romance movie, all main characters may potentially be described as being in love so the difference is smaller. Success difference does not vary a lot accross genres, it is always associated more to men. Men tend to be more described as intelligent than women in thriller and action movies, while in romance or comedy movies there is no difference. 
 
@@ -186,19 +186,16 @@ The same phenomenon is observable when we do the same analysis on the directors 
 
 ![image](/assets/img/woman_directing.png)
 
-We see that having a woman at important roles seems to have an impact on how gender stereotypes are depicted. A woman writer can bring a different perspective to the table and create more opportunities for other women. However, this does not prevent to have stereotypes in the movie. In fact, men tend to be described as more violent in movies written or directed by a woman.
+We observe that having women in important roles appears to have an impact on the portrayal of gender stereotypes. A woman writer can bring a different perspective and create more opportunities for other women. However, this does not necessarily eliminate stereotypes in the movie. In fact, men tend to be depicted as more violent in movies written or directed by a woman.
 
-If Madi wants to play in movies in which women are successful and intelligent figures, she might consider playing in more films directed by other women.
-
-
+If Madi wants to act in movies in which women are depicted as successful and intelligent figures, she may want to consider appearing in more films directed by women.
 
 
 ## <j>What have we learned ?</j>
 
 By checking which actions are more associated to a gender in movie summaries, we have seen that in many films, men and women are often shown playing stereotypical roles. Our analysis on movie summaries shows that men are often portrayed as being more violent and aggressive, while women are often shown as being more loving. These two stereotypes are really important but we can also find others. For example, actions linked to intelligence or success are more associated to men. These gender stereotypes are harmful because they reinforce harmful gender norms and can limit the way that men and women are perceived in society. It is important for filmmakers to strive for greater representation and diversity in their casting and storytelling in order to break down these stereotypes and create more nuanced and realistic characters. One possible solution to attenuate some of these stereotypes is to balance genders in the industry. Indeed, we saw that having women in the writers and directors of a movie could impact actions distribution within a gender.
 
-Madi and Jake will probably experience these stereotypes. For example, Madi as a woman may find that she is more likely to be offered roles that are traditionally seen as being more suitable for women, such as romantic leads or maternal figures. On the other hand, Jake as a man may find that he is more likely to be offered roles that are traditionally seen as being more suitable for men, such as action heroes or authority figures. Anyway, we wish luck to both of them ! 
-
+Madi and Jake will probably experience these stereotypes. For example, Madi as a woman may find that she is more likely to be offered roles that are traditionally seen as being more suitable for women, such as romantic leads or maternal figures. On the other hand, Jake as a man may find that he is more likely to be offered roles that are traditionally seen as being more suitable for men, such as action heroes or authority figures. Anyway, we wish both of them luck !
 
 <!-- ![image](/assets/img/The_end.jpeg) -->
 
