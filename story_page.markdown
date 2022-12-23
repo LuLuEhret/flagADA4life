@@ -110,7 +110,7 @@ Now, we look into the summaries to find the conditional probability of getting a
 ![image](/assets/img/role_summary.png)
  
 
-## <j>How do actions done by men and women differ in movie summaries : overview </j>
+## <j>How do actions done by men and women differ in movie summaries ? </j>
 
 As a first exploratory analysis, we seek the actions which have a the biggest difference in frequency of occurence between male and females. We only keep actions that appear more than a threshold frequency both for males and females so that our analysis is meaningful. Below, you can observe the top 30 actions that are much more frequent for men on the left and for women on the right. What strikes us is the number of words associated to violence for men  ("shoot", "fight", "attack", "throw", "force"...) and to love for women ("love", "marry", "seduce", "lover", "couple"). Other stereotypes are also starting to appear like the fact that women "spend" more than men, and men "order", "plan", "manage". 
 
